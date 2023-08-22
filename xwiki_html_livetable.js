@@ -23,6 +23,15 @@
     </div>
 </div>
 
+<div id="addUserContainer">
+    <h2>Ajouter un utilisateur</h2>
+    <input type="text" id="userName" placeholder="Nom">
+    <input type="text" id="userEmail" placeholder="Email">
+    <input type="text" id="userCity" placeholder="Ville">
+    <button id="addUserBtn">Ajouter</button>
+</div>
+    
+
 </body>
 
 {{/html}}
